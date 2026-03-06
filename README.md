@@ -16,7 +16,7 @@
 ---
 
 ## 🔭 What I'm Currently Working On
-- Turn-Based RPG, inspired by *Sonny* and *Legend of the Void* [rpg_sonnylike](https://github.com/Soren64/rpg_sonnylike)
+- Turn-Based RPG, inspired by *Sonny* and *Legend of the Void* [rpg_sonnylike](https://github.com/Soren64/Sonnylike-RPG)
 
 ---
 
