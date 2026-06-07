@@ -10,9 +10,7 @@
 ---
 
 ## 🌱 Things I'm Learning
-- AWS, Cloud Practitioner (Completed coursework! Formal certification?)
-- Docker, and containerization
-- React
+- Cloud Computing (AWS, Azure)
 
 ---
 
