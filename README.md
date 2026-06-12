@@ -11,6 +11,7 @@
 
 ## 🌱 Things I'm Learning
 - Cloud Computing (AWS, Azure)
+- Agentic AI
 
 ---
 
