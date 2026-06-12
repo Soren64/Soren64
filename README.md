@@ -3,7 +3,7 @@
 ---
 
 ## 💬 About Me
-- I'm a Software Engineer with experience in APIs, SQL, and Object-Oriented Programming
+- I'm a Software Engineer with experience full stack development
 - I am well versed and multiple languages, including C++, C#, Java, and Python
 - I'm passionate about having a growth mindset; I'm always looking to improve
   
